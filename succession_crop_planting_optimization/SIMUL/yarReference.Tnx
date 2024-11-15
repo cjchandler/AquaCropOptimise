@@ -1,0 +1,20 @@
+Reference : yarmouth daily highs and lows temperature
+     3  : Monthly records (1=daily, 2=10-daily and 3=monthly data)
+     1  : First day of record (1, 11 or 21 for 10-day or 1 for months)
+     1  : First month of record
+  1901  : First year of record (1901 if not linked to a specific year)
+
+  Tmin (C)   TMax (C) 
+  =======================
+      6.02     16.10
+      6.00     20.34
+      6.04     23.23
+      6.27     24.18
+      8.02     24.87
+     11.74     25.00
+     15.49     24.99
+     15.87     25.00
+     13.39     24.97
+      9.53     24.53
+      6.76     21.55
+      5.64     14.68
