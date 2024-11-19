@@ -1,10 +1,10 @@
 Yarmouth NS 
       7.1       :AquaCrop Version (August 2023)
       1         :Year number of cultivation (Seeding/planting year)
-  43033         : First day of simulation period 
-  43033         : Last day of simulation period 
-  43033         : First day of cropping period 
-  43033         : Last day of cropping period 
+  38881         : First day of simulation period 
+  39019         : Last day of simulation period 
+  38881         : First day of cropping period 
+  39019         : Last day of cropping period 
 -- 1. Climate (CLI) file
    yar.CLI
    './DATA/'

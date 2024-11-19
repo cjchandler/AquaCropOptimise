@@ -87,7 +87,7 @@ class simulate_years:
 c = climate()
 c.list_historical_daily_files = ["yarA0.csv", "yarA1.csv","yarA2.csv","yarA3.csv","yarA4.csv" ]
 c.solcast_filename = "43.913601_-66.070782_Solcast_PT60M.csv" 
-c.data_path= "/home/carl/Git_Projects/AquaCropFAO/yarmouthData/"
+c.data_path= "../yarmouthData/"
 c.lon = -66
 c.lat = 43.9
 c.load_solcast_all()

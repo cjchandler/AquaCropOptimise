@@ -153,7 +153,7 @@ class multi_sim_optimizer:
 #make a greenhouse climate file
 
 g = greenhouse()
-g.data_path = "/home/carl/Git_Projects/AquaCropFAO/yarmouthData/"
+g.data_path = "../yarmouthData/"
 g.solcast_filename = "43.913601_-66.070782_Solcast_PT60M.csv" 
 g.lon = -66
 g.lat = 43
