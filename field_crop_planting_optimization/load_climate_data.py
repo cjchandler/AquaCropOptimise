@@ -199,7 +199,7 @@ def getSimYield( start_date , stop_date ,  df , minimum_harvest_temperature , cr
  
 
 
-    dfout = pd.read_csv("./OUTP/yarPRMday.OUT", skiprows = 5, names= daily_header, sep="\s+"  , index_col=None )
+    dfout = pd.read_csv("./OUTP/yarPRMday.OUT", skiprows = 5, names= daily_header, sep="\\s+"  , index_col=None )
     dfout.to_csv("temp2.csv")
     
     

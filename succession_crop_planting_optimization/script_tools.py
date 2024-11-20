@@ -47,7 +47,7 @@ def getSimYield( year , month , day , yearend , monthend , dayend,  df , minimum
  
 
 
-    dfout = pd.read_csv("./OUTP/yarPRMday.OUT", skiprows = 5, names= daily_header, sep="\s+"  , index_col=None )
+    dfout = pd.read_csv("./OUTP/yarPRMday.OUT", skiprows = 5, names= daily_header, sep="\\s+"  , index_col=None )
     dfout.to_csv("temp2.csv")
     
     
