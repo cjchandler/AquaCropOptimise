@@ -1,5 +1,6 @@
 #Python AquaCrop toolkit
 These python programs use the AquaCrop plant growth simulator to determine optimum planting dates. More information is in the readme.md files in each directory. 
+contact at carljosephchandler@gmail.com for bugs or install issues.
 
 
 # AquaCrop
